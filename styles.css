@@ -33,7 +33,7 @@ body {
 	border-bottom: 0.05rem solid #e5e5e5;
 }
 /* Make the masthead heading the same height as the navigation */
-.header h2 {
+.header h1 {
 	margin-top: 0;
 	margin-bottom: 0;
 	line-height: 3rem;
@@ -124,4 +124,8 @@ body {
 .panel-body .btn-primary {
 	background-color: #a9203e;
 	border: none;
+}
+
+.links {
+	font-size: 16px;
 }
